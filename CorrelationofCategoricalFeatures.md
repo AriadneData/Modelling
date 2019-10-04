@@ -4,7 +4,7 @@
 
 Contingency tables or cross tabulation display the multivariate frequency distribution of variable.
 
-![TwoWayContingencyTable](C:\Users\AMAND\BT Cloud\gitModelling\images\TwoWayContingencyTable.jpg)
+![TwoWayContingencyTable](images\TwoWayContingencyTable.jpg)
 
 The chi-squared distribution can show whether interdependence according to a statistical significance. However, there are several tests that can give the strength of the association.
 
