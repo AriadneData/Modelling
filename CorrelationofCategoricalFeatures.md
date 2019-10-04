@@ -34,7 +34,7 @@ def cramers_v(x, y):
 
 This is asymmetrical and preserves information. Referring to the table below, if the value of *x* is known, the value of *y* still can’t be determined, but if the value of *y* is known — then the value of *x* is guaranteed. This valuable information is lost when using Cramer’s V due to its symmetry, so to preserve it we need an *asymmetric* measure of association between categorical features. 
 
-![TheilsExplanation](C:\Users\AMAND\BT Cloud\gitModelling\images\TheilsExplanation.png)
+![TheilsExplanation](images\TheilsExplanation.png)
 
 
 
